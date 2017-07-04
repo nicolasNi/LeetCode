@@ -1,0 +1,70 @@
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+Example:
+```
+Given nums = [2, 7, 11, 15], target = 9,
+
+Because nums[0] + nums[1] = 2 + 7 = 9,
+return [0, 1].
+```
+
+这道题一看就知道用暴力搜索肯定没问题，这个算法的时间复杂度是O(n^2)，代码如下：
+```
+public int[] twoSum(int[] nums, int target) {
+    for (int i = 0; i < nums.length; i++) {
+        for (int j = i + 1; j < nums.length; j++) {
+            if (nums[j] == target - nums[i]) {
+                return new int[] { i, j };
+            }
+        }
+    }
+    throw new IllegalArgumentException("No two sum solution");
+}
+```
+
+
+
+
+那么只能想个O(n)的算法来实现，整个实现步骤为：先遍历一遍数组，建立map数据，然后再遍历一遍，开始查找，找到则记录index。代码如下：
+```
+public class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        HashMap<Integer, Integer> m = new HashMap<Integer, Integer>();
+        int[] res = new int[2];
+        for (int i = 0; i < nums.length; ++i) {
+            m.put(nums[i], i);
+        }
+        for (int i = 0; i < nums.length; ++i) {
+            int t = target - nums[i];
+            if (m.containsKey(t) && m.get(t) != i) {
+                res[0] = i;
+                res[1] = m.get(t);
+                break;
+            }
+        }
+        return res;
+    }
+} 
+```
+
+或者我们可以写的更加简洁一些，把两个for循环合并成一个：
+```
+public class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        int[] result = new int[2];
+        Map<Integer, Integer> map = new HashMap<Integer,Integer>();
+        for(int i=0; i < nums.length; i++){
+            if(map.containsKey(target-nums[i]))
+            {
+                result[0] = map.get(target -nums[i]);
+                result[1] = i;
+                break;
+            }
+            map.put(nums[i], i);
+        }
+        return result;
+    }
+}
+```
