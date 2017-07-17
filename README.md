@@ -65,7 +65,7 @@ Stack and Queues
 
 [Implement Queue using Stacks](https://github.com/nicolasNi/LeetCode/blob/master/232.%20Implement%20Queue%20using%20Stacks.md)
 
-
+[Min Stack](https://github.com/nicolasNi/LeetCode/blob/master/155.%20Min%20Stack.md)
 
 String
 [Longest Substring Without Repeating Characters](https://github.com/nicolasNi/LeetCode/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
