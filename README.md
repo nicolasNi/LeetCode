@@ -22,7 +22,7 @@ Tree:
 
 [Binary Tree Inorder Traversal](https://github.com/nicolasNi/LeetCode/blob/master/94.%20Binary%20Tree%20Inorder%20Traversal.md)
 
-[剑指24-二叉搜索树的后序遍历序列](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8724-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97.md
+[剑指24-二叉搜索树的后序遍历序列](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8724-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97.md)
 
 [剑指25-二叉树中和为某一值的路径](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8725-%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84.md)
 
