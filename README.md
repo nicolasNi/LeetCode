@@ -121,6 +121,8 @@ String:
 
 [剑指12-打印1到最大的n位数](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8712-%E6%89%93%E5%8D%B01%E5%88%B0%E6%9C%80%E5%A4%A7%E7%9A%84n%E4%BD%8D%E6%95%B0.md)
 
+[Number of Digit One](https://github.com/nicolasNi/LeetCode/blob/master/233.%20Number%20of%20Digit%20One.md)
+
 
 算法:
 
