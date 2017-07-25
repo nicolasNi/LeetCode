@@ -55,6 +55,7 @@ Array:
 
 [Permutations II](https://github.com/nicolasNi/LeetCode/blob/master/Permutations%20II.md)
 
+[Majority Element](https://github.com/nicolasNi/LeetCode/blob/master/169.%20Majority%20Element.md)
 
 ListNode:
 
