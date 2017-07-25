@@ -57,6 +57,8 @@ Array:
 
 [Majority Element](https://github.com/nicolasNi/LeetCode/blob/master/169.%20Majority%20Element.md)
 
+[剑指30-最小的K个数](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8730-%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0.md)
+
 ListNode:
 
 [Remove Nth Node From End of List](https://github.com/nicolasNi/LeetCode/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
