@@ -125,6 +125,10 @@ String:
 
 [Number of Digit One](https://github.com/nicolasNi/LeetCode/blob/master/233.%20Number%20of%20Digit%20One.md)
 
+[Ugly Number](https://github.com/nicolasNi/LeetCode/blob/master/263.%20Ugly%20Number.md)
+
+[Ugly Number II](https://github.com/nicolasNi/LeetCode/blob/master/264.%20Ugly%20Number%20II.md)
+
 
 算法:
 
