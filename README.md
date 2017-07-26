@@ -113,6 +113,8 @@ String:
 
 [String to Integer (atoi)](https://github.com/nicolasNi/LeetCode/blob/master/8.%20String%20to%20Integer%20(atoi).md)
 
+[First Unique Character in a String](https://github.com/nicolasNi/LeetCode/blob/master/387.%20First%20Unique%20Character%20in%20a%20String.md)
+
 
 
 计算 溢出:
