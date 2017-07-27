@@ -61,6 +61,8 @@ Array:
 
 [Largest Number](https://github.com/nicolasNi/LeetCode/blob/master/179.%20Largest%20Number.md)
 
+[数组中的逆序对](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8736-%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9.md)
+
 ListNode:
 
 [Remove Nth Node From End of List](https://github.com/nicolasNi/LeetCode/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
