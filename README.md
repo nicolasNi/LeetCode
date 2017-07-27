@@ -10,8 +10,6 @@ Tree:
 
 [Subtree of Another Tree](https://github.com/nicolasNi/LeetCode/blob/master/572.%20Subtree%20of%20Another%20Tree.md)
 
-[Spiral Matrix II](https://github.com/nicolasNi/LeetCode/blob/master/59.%20Spiral%20Matrix%20II.md)
-
 [剑指18-树的子结构](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8718-%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md)
 
 [Binary Tree Level Order Traversal](https://github.com/nicolasNi/LeetCode/blob/master/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
@@ -44,6 +42,8 @@ Array:
 [Median of Two Sorted Arrays](https://github.com/nicolasNi/LeetCode/blob/master/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
 
 [Spiral Matrix](https://github.com/nicolasNi/LeetCode/blob/master/54.%20Spiral%20Matrix.md)
+
+[Spiral Matrix II](https://github.com/nicolasNi/LeetCode/blob/master/59.%20Spiral%20Matrix%20II.md)
 
 [Search a 2D Matrix](https://github.com/nicolasNi/LeetCode/blob/master/74.%20Search%20a%202D%20Matrix.md)
 
