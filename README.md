@@ -30,6 +30,9 @@ Tree:
 
 [Minimum Depth of Binary Tree](https://github.com/nicolasNi/LeetCode/blob/master/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)
 
+[Balanced Binary Tree](https://github.com/nicolasNi/LeetCode/blob/master/110.%20Balanced%20Binary%20Tree.md)
+
+
 Array:
 
 [Two Sum](https://github.com/nicolasNi/LeetCode/blob/master/1.%20Two%20Sum.md)
