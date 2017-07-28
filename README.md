@@ -26,6 +26,9 @@ Tree:
 
 [剑指27-二叉搜索树与双向链表](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8727-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
 
+[Maximum Depth of Binary Tree](https://github.com/nicolasNi/LeetCode/blob/master/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
+
+[Minimum Depth of Binary Tree](https://github.com/nicolasNi/LeetCode/blob/master/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)
 
 Array:
 
