@@ -39,6 +39,8 @@ Array:
 
 [Two Sum II - Input array is sorted](https://github.com/nicolasNi/LeetCode/blob/master/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)
 
+[和为 s 的连续正数序列](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8741-%E5%92%8C%E4%B8%BA%20s%20%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.md)
+
 [Find Minimum in Rotated Sorted Array](https://github.com/nicolasNi/LeetCode/blob/master/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 
 [Find Minimum in Rotated Sorted Array II](https://github.com/nicolasNi/LeetCode/blob/master/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.md)
