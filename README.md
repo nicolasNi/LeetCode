@@ -37,6 +37,8 @@ Array:
 
 [Two Sum](https://github.com/nicolasNi/LeetCode/blob/master/1.%20Two%20Sum.md)
 
+[Two Sum II - Input array is sorted](https://github.com/nicolasNi/LeetCode/blob/master/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)
+
 [Find Minimum in Rotated Sorted Array](https://github.com/nicolasNi/LeetCode/blob/master/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 
 [Find Minimum in Rotated Sorted Array II](https://github.com/nicolasNi/LeetCode/blob/master/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.md)
