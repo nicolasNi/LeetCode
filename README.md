@@ -100,6 +100,9 @@ ListNode:
 
 [Number of 1 Bits](https://github.com/nicolasNi/LeetCode/blob/master/191.%20Number%20of%201%20Bits.md)
 
+[Single Number](https://github.com/nicolasNi/LeetCode/blob/master/136.%20Single%20Number.md)
+
+[Single Number II](https://github.com/nicolasNi/LeetCode/blob/master/137.%20Single%20Number%20II.md)
 
 
 Stack and Queues:
