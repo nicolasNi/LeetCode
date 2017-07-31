@@ -135,6 +135,9 @@ String:
 
 [First Unique Character in a String](https://github.com/nicolasNi/LeetCode/blob/master/387.%20First%20Unique%20Character%20in%20a%20String.md)
 
+[Reverse Words in a String](https://github.com/nicolasNi/LeetCode/blob/master/151.%20Reverse%20Words%20in%20a%20String.md)
+
+[剑指42-左旋转字符串](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8742-%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
 
 计算 溢出:
