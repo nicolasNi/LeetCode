@@ -161,3 +161,6 @@ String:
 算法:
 
 [Climbing Stairs](https://github.com/nicolasNi/LeetCode/blob/master/70.%20Climbing%20Stairs.md)
+
+[圆圈中最后剩下的数字](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8745-%E5%9C%86%E5%9C%88%E4%B8%AD%E6%9C%80%E5%90%8E%E5%89%A9%E4%B8%8B%E7%9A%84%E6%95%B0%E5%AD%97.md)
+
