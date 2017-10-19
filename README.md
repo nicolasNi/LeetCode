@@ -4,7 +4,7 @@ Tree:
 
 [Same Tree](https://github.com/nicolasNi/LeetCode/blob/master/100.%20Same%20Tree.md)
 
-[Construct Binary Tree from Preorder and Inorder Traversal -- 由先序和中序遍历建立二叉树](https://github.com/nicolasNi/LeetCode/blob/master/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
+[剑指6-105. Construct Binary Tree from Preorder and Inorder Traversal -- 由先序和中序遍历建立二叉树](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%876-105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
 
 [Invert Binary Tree](https://github.com/nicolasNi/LeetCode/blob/master/226.%20Invert%20Binary%20Tree.md)
 
@@ -168,3 +168,16 @@ String:
 
 [求 1+2+...+n](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8746-%E6%B1%82%201%2B2%2B...%2Bn.md)
 
+
+
+字符串操作：
+StringBuffer sb = new StringBuffer();
+sb.append("");
+
+String input;
+int lenght = input.length();
+char fisrtChar = input.charAt(0);
+
+数组操作：
+copy子数组，from在数组中，to不在新数组中（to之前的元素被copy过去）
+Arrays.copyOfRange(preorder,1,i+1)
