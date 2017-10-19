@@ -118,11 +118,9 @@ ListNode:
 
 Stack and Queues:
 
-[Implement Stack using Queues](https://github.com/nicolasNi/LeetCode/blob/master/225.%20Implement%20Stack%20using%20Queues.md)
+[剑指7-Implement Stack using Queues](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%877-225.%20Implement%20Stack%20using%20Queues.md)
 
-[Implement Queue using Stacks](https://github.com/nicolasNi/LeetCode/blob/master/232.%20Implement%20Queue%20using%20Stacks.md)
-
-[Min Stack](https://github.com/nicolasNi/LeetCode/blob/master/155.%20Min%20Stack.md)
+[剑指7-Implement Queue using Stacks](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%877-232.%20Implement%20Queue%20using%20Stacks.md)
 
 [剑指22-栈的压入、弹出序列](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8722-%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md)
 
@@ -171,13 +169,48 @@ String:
 
 
 字符串操作：
+
 StringBuffer sb = new StringBuffer();
+
 sb.append("");
 
 String input;
+
 int lenght = input.length();
+
 char fisrtChar = input.charAt(0);
 
 数组操作：
+
 copy子数组，from在数组中，to不在新数组中（to之前的元素被copy过去）
+
 Arrays.copyOfRange(preorder,1,i+1)
+
+
+栈与队列
+
+在java中栈为Stack<>,操作方法如下：
+
+private Stack<Integer> oldStack = new Stack<Integer>();
+  
+newStack.push(88);
+
+oldStack.pop();
+
+ewStack.peek();
+
+oldStack.isEmpty();
+
+在java中队列为LinkedList<Integer>,操作方法如下：
+  
+private LinkedList<Integer> queue1 = new LinkedList<Integer>();
+
+
+queue2.offer(88);
+
+queue1.poll()；
+
+queue1.peek();
+
+queue1.isEmpty();
+
