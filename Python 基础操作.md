@@ -1,7 +1,29 @@
 # Python 字符串
 
-## Python join() 方法用于将序列中的元素以指定的字符连接生成一个新的字符串。
+## Python访问字符串中的值
+```python
+var1 = 'Hello World!'
+var2 = "Python Runoob"
+print "var1[0]: ", var1[0]
+print "var2[1:5]: ", var2[1:5]
 
+var1[0]:  H
+var2[1:5]:  ytho
+```
+
+## Python strip() 方法用于移除字符串头尾指定的字符（默认为空格或换行符）或字符序列。
+```python
+str = "00000003210Runoob01230000000"; 
+print str.strip( '0' );  # 去除首尾字符 0
+ 
+str2 = "   Runoob      ";   # 去除首尾空格
+print str2.strip();
+
+3210Runoob0123
+Runoob
+```
+
+## Python join() 方法用于将序列中的元素以指定的字符连接生成一个新的字符串。
 join()方法语法： 
 >str.join(sequence)
 
@@ -38,4 +60,17 @@ print str.isdigit();
 
 True
 False
+```
+
+## Python upper() 方法将字符串中的小写字母转为大写字母。Python lower() 方法转换字符串中所有大写字符为小写。
+```python
+str = "this is string example....wow!!!";
+print "str.upper() : ", str.upper()
+
+str.upper() :  THIS IS STRING EXAMPLE....WOW!!!
+
+str = "THIS IS STRING EXAMPLE....WOW!!!";
+print str.lower();
+
+this is string example....wow!!!
 ```
