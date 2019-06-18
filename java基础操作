@@ -1,0 +1,48 @@
+
+
+字符串操作：
+
+StringBuffer sb = new StringBuffer();
+
+sb.append("");
+
+String input;
+
+int lenght = input.length();
+
+char fisrtChar = input.charAt(0);
+
+数组操作：
+
+copy子数组，from在数组中，to不在新数组中（to之前的元素被copy过去）
+
+Arrays.copyOfRange(preorder,1,i+1)
+
+
+栈与队列
+
+在java中栈为Stack<>,操作方法如下：
+
+private Stack<Integer> oldStack = new Stack<Integer>();
+  
+newStack.push(88);
+
+oldStack.pop();
+
+ewStack.peek();
+
+oldStack.isEmpty();
+
+在java中队列为LinkedList<Integer>,操作方法如下：
+  
+private LinkedList<Integer> queue1 = new LinkedList<Integer>();
+
+
+queue2.offer(88);
+
+queue1.poll()；
+
+queue1.peek();
+
+queue1.isEmpty();
+
