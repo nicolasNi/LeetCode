@@ -111,9 +111,9 @@ ListNode:
 
 [Single Number II](https://github.com/nicolasNi/LeetCode/blob/master/137.%20Single%20Number%20II.md)
 
-[数组中只出现一次的数字](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8740-%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md)
+[剑指40-数组中只出现一次的数字](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8740-%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md)
 
-[不用加减乘除做加法](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8747-%E4%B8%8D%E7%94%A8%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%81%9A%E5%8A%A0%E6%B3%95.md)
+[剑指47-不用加减乘除做加法](https://github.com/nicolasNi/LeetCode/blob/master/%E5%89%91%E6%8C%8747-%E4%B8%8D%E7%94%A8%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%81%9A%E5%8A%A0%E6%B3%95.md)
 
 
 Stack and Queues:
