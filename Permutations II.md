@@ -46,3 +46,28 @@ public class Solution {
     }  
 }
 ```
+
+# Python
+```python
+class Solution:
+    def permuteUnique(self, nums: List[int]) -> List[List[int]]:
+        res, temp, used =[], [], [False]*len(nums)
+        if not nums:
+            return res
+        nums.sort()
+        self.permuteDFS(nums, res, temp, used)
+        return res
+    
+    def permuteDFS(self, nums, res, temp, used):
+        if len(temp) == len(nums):
+            res.append(copy.copy(temp))
+        for i in range(len(nums)):
+            if not used[i]:
+                if i > 0 and not used[i-1] and nums[i-1] == nums[i]:
+                    continue
+                used[i] = True
+                temp.append(nums[i])
+                self.permuteDFS(nums, res, temp, used)
+                temp.pop()
+                used[i] = False
+```
